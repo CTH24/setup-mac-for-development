@@ -9,7 +9,7 @@ alias cv="vi ~/.vimrc"
 alias cvp="vi ~/.vim/plugins.vim"
 
 ZSH_THEME="norm"
-ZSH_THEME="powerlevel9k/powerlevel9k"
+#ZSH_THEME="powerlevel9k/powerlevel9k"
 plugins=(
     git
     osx

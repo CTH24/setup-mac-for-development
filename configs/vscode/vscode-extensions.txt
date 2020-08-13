@@ -20,7 +20,6 @@ ginfuru.ginfuru-onedark-raincoat-theme
 glitch.glitch
 HookyQR.beautify
 JCsoftIA.jcsoftia
-joelday.docthis
 johnpapa.vscode-cloak
 mikestead.dotenv
 ms-azuretools.vscode-docker

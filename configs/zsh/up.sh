@@ -7,6 +7,7 @@ up() {
   brew upgrade
   brew cask upgrade
   brew cleanup
-  upgrade_oh_my_zsh
+  brew doctor
+  omz update
   mas upgrade
 }
