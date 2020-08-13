@@ -1,0 +1,97 @@
+{
+  "explorer.openEditors.visible": 0,
+  "editor.snippetSuggestions": "top",
+  "emmet.showAbbreviationSuggestions": false,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.formatOnPaste": false,
+  "workbench.colorTheme": "JC bestR2",
+  "window.zoomLevel": 0,
+  "workbench.iconTheme": "vscode-icons",
+  "editor.fontLigatures": true,
+  "files.autoSave": "onFocusChange",
+  "editor.fontFamily": "'Anonymous Pro', 'Fira Coda', Menlo, Monaco, 'Courier New', monospace",
+  "markdown.preview.fontSize": 36,
+  "editor.tabSize": 2,
+  "editor.detectIndentation": true,
+  "editor.minimap.enabled": false,
+  "eslint.enable": true,
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.suggestSelection": "first",
+  "[javascript]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "liveshare.featureSet": "insiders",
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "liveshare.anonymousGuestApproval": "accept",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.colorCustomizations": {},
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": ["comment", "comment.block"],
+        "settings": {
+          "fontStyle": "italic",
+          "foreground": "#ff1493"
+        }
+      },
+      {
+        "scope": [
+          "keyword.operator.logical",
+          "keyword.operator.arithmetic",
+          "keyword.operator.assignment",
+          "keyword.operator.bitwise"
+        ],
+        "settings": {
+          "fontStyle": ""
+        }
+      }
+    ]
+  },
+  "todo-tree.tree.showScanModeButton": false,
+  "cSpell.userWords": [
+    "deno",
+    "feathersjs",
+    "hoffmann",
+    "kosmos",
+    "middlewares",
+    "openapi",
+    "socketio",
+    "upsert",
+    "upvote"
+  ],
+  "editor.lineHeight": 0,
+  "editor.fontSize": 13,
+  "editor.formatOnSave": true,
+  "terminal.integrated.fontFamily": "'Hack Nerd Font', monospace",
+  "terminal.integrated.fontSize": 10,
+  "terminal.integrated.lineHeight": 1.1,
+  "workbench.activityBar.visible": false,
+  "workbench.editor.showTabs": false,
+  "workbench.statusBar.visible": false
+}
