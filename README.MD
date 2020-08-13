@@ -1,5 +1,7 @@
 # Setup Mac for Development
 
+![Setup Mac for Development](./files/Screenshots/setup-mac-for-development-1.0.png?raw=true "Version 1.0")
+
 ## Installation
 
 1. git clone https://github.com/CTH24/setup-mac-for-development.git
