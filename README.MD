@@ -34,6 +34,7 @@
 1. sh ./setup/basics/zsh.sh
 1. sh ./setup/basics/mas.sh
 1. sh ./setup/basics/grep.sh
+1. sh ./setup/basic/appcleaner.sh
 
 ### UI
 
