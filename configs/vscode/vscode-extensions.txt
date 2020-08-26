@@ -1,4 +1,5 @@
 42Crunch.vscode-openapi
+akamud.vscode-theme-onedark
 alexcvzz.vscode-sqlite
 andys8.jest-snippets
 apollographql.vscode-apollo
@@ -25,6 +26,7 @@ mikestead.dotenv
 ms-azuretools.vscode-docker
 MS-CEINTL.vscode-language-pack-es
 ms-mssql.mssql
+ms-python.python
 ms-vscode-remote.remote-ssh
 ms-vscode-remote.remote-ssh-edit
 ms-vscode.azure-account
@@ -38,10 +40,10 @@ patbenatar.advanced-new-file
 PKief.material-icon-theme
 redhat.vscode-yaml
 ritwickdey.LiveServer
-Shan.code-settings-sync
 SmukkeKim.theme-setimonokai
 softwaredotcom.swdc-vscode
 streetsidesoftware.code-spell-checker
+tomoki1207.pdf
 vscode-icons-team.vscode-icons
 vscodevim.vim
 WallabyJs.quokka-vscode

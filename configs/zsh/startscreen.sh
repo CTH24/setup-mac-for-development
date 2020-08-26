@@ -4,7 +4,7 @@ date
 echo ''
 cd ~/.dotfiles/zsh/figlet
 toilet "CTH24.DE" -f Slant.flf --metal
-cd ~
+cd -
 echo "\n"
 neofetch
 echo "\n"
