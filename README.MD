@@ -38,6 +38,7 @@
 1. sh ./setup/basic/appcleaner.sh
 1. sh ./setup/basic/basictex.sh
 1. sh ./setup/basic/pandoc.sh
+1. sh ./setup/basic/time-out.sh
 
 ### UI
 
