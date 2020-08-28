@@ -14,6 +14,7 @@ c_fortune() {
   pwd
   echo && echo
 }
+alias fo="c_title Fortune && c_fortune"
 
 c_fullstack() {
   clear
