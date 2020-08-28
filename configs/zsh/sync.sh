@@ -5,6 +5,7 @@ c_sync_configs() {
   g dotfiles
   cd ~/code/python-scripts
   g
+  clear
   c_fortune
 }
 alias engage=c_sync_configs
