@@ -12,7 +12,7 @@ c_ft() {
 }
 alias ft=c_ft
 
-# Fint File in Folder
+# Find File in Folder
 c_ff() {
   c_title "Find File in Folder"
   find . -name "$1" -type f
