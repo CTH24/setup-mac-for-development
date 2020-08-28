@@ -1,8 +1,6 @@
 up() {
-  clear
-  echo
-  echo 'CTH24 - Mac Update' | boxes -d ada-box -a c
-  echo
+  c_title 'CTH24 - Mac Update'
+  echo 'Homebrew Update'
   brew update
   brew upgrade
   brew cask upgrade
@@ -10,4 +8,5 @@ up() {
   brew doctor
   omz update
   mas upgrade
+  c_fortune
 }

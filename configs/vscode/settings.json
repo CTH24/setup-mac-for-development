@@ -85,6 +85,8 @@
     "middlewares",
     "openapi",
     "socketio",
+    "startscreen",
+    "tagesschau",
     "upsert",
     "upvote",
     "wordpress",
