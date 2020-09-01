@@ -14,6 +14,7 @@
 | Alias                 | Description                            |
 | :-------------------- | :------------------------------------- |
 | up                    | System Update                          |
+| s                     | Show current Folder                    |
 | sd                    | Goto Code Folder                       |
 | ft                    | Find Text in Folder                    |
 | ff                    | Find File in Folder                    |

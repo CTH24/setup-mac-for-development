@@ -10,10 +10,21 @@ c_cd() {
   fi
 
   if [ -d .git ]; then
-    echo
     gh issue list
     echo
   fi
 
 }
 alias sd=c_cd
+
+c_s() {
+  curdir="${PWD##*/}"
+  GIT_FILE=${PWD}/.git
+  c_title $curdir
+  ll
+  if [ -d .git ]; then
+    gh issue list
+    echo
+  fi
+}
+alias s=c_s
