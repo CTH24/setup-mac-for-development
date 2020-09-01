@@ -7,7 +7,6 @@ plugins=(
     osx
     zsh-syntax-highlighting
     zsh-autosuggestions
-    vi-mode
     npx
     brew
     docker
