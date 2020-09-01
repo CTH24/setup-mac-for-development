@@ -11,30 +11,30 @@
 
 ## ZSH Alias
 
-| Alias                 | Description                            |
-| :-------------------- | :------------------------------------- |
-| up                    | System Update                          |
-| s                     | Show current Folder                    |
-| sd                    | Goto Code Folder                       |
-| ft                    | Find Text in Folder                    |
-| ff                    | Find File in Folder                    |
-| t                     | touch file                             |
-| v                     | Open VIM                               |
-| c                     | Open directory in VS Code              |
-| new \<projectname\>   | Create new Project in Folder ~/code    |
-| gs                    | Git Status                             |
-| g                     | git add .; git commit -m \$1; git push |
-| grr                   | Git Repo Reset                         |
-| git_remote_repo_reset | Git Remote Repo Reset                  |
-| fo                    | Show Fortune Card                      |
-| web                   | Open Google in Browser                 |
-| tagesschau            | Open tagesschau in iina                |
-| ip                    | Show IP Address                        |
-| clearDNSCache         | Clear DNS Cache                        |
-| wp                    | Run WP-CLI in Docker Container         |
-| startscreen           | Show Start Screen                      |
-| zsh_reload            | Reload ZSH configuration               |
-| zsh_edit              | Edit ZSH configuration                 |
+| Alias                 | Description                                    |
+| :-------------------- | :--------------------------------------------- |
+| up                    | System Update                                  |
+| s                     | Show current Folder                            |
+| sd \<foldername\>     | Goto Code Folder                               |
+| ft \<text\>           | Find Text in Folder                            |
+| ff \<filename\>       | Find File in Folder                            |
+| t \<filename\>        | touch file                                     |
+| v                     | Open VIM                                       |
+| c                     | Open directory in VS Code                      |
+| new \<projectname\>   | Create new Project in Folder ~/code and GitHub |
+| gs                    | Git Status                                     |
+| g \<commit message\>  | git add .; git commit -m \$1; git push         |
+| grr                   | Git Repo Reset                                 |
+| git_remote_repo_reset | Git Remote Repo Reset                          |
+| fo                    | Show Fortune Card                              |
+| web                   | Open Google in Browser                         |
+| tagesschau            | Open tagesschau in iina                        |
+| ip                    | Show IP Address                                |
+| clearDNSCache         | Clear DNS Cache                                |
+| wp                    | Run WP-CLI in Docker Container                 |
+| startscreen           | Show Start Screen                              |
+| zsh_reload            | Reload ZSH configuration                       |
+| zsh_edit              | Edit ZSH configuration                         |
 
 ## Packages
 
