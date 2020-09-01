@@ -21,6 +21,7 @@
 | t                     | touch file                             |
 | v                     | Open VIM                               |
 | c                     | Open directory in VS Code              |
+| new <projektName>     | Create new Project in Folder ~/code    |
 | gs                    | Git Status                             |
 | g                     | git add .; git commit -m \$1; git push |
 | grr                   | Git Repo Reset                         |

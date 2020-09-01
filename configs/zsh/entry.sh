@@ -39,3 +39,6 @@ source ~/.dotfiles/zsh/homebrew.sh
 
 # Sync System
 source ~/.dotfiles/zsh/sync.sh
+
+# New
+source ~/.dotfiles/zsh/new.sh
