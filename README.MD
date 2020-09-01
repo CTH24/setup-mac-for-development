@@ -9,6 +9,33 @@
 1. sh ./prepare-mac.sh
 1. sh ./setup-mac-for-development
 
+## ZSH Alias
+
+| Alias                 | Description                            |
+| :-------------------- | :------------------------------------- |
+| zsh_reload            | Reload ZSH configuration               |
+| zsh_edit              | Edit ZSH configuration                 |
+| ft                    | Find Text in Folder                    |
+| ff                    | Find File in Folder                    |
+| v                     | Open VIM                               |
+| f                     | Show Fullstack Card                    |
+| fo                    | Show Fortune Card                      |
+| web                   | Open Google in Browser                 |
+| c                     | Open directory in VS Code              |
+| t                     | touch                                  |
+| startscreen           | Show Start Screen                      |
+| up                    | System Update                          |
+| reload                | Reload ZSH configuration               |
+| g                     | git add .; git commit -m \$1; git push |
+| gs                    | Git Status                             |
+| grr                   | Git Repo Reset                         |
+| git_remote_repo_reset | Git Remote Repo Reset                  |
+| tagesschau            | Open tagesschau in iina                |
+| sd                    | Goto Code Folder                       |
+| ip                    | Show IP Address                        |
+| clearDNSCache         | Clear DNS Cache                        |
+| wp                    | Run WP-CLI in Docker Container         |
+
 ## Packages
 
 ### Basics
@@ -41,7 +68,6 @@
 1. sh ./setup/basic/time-out.sh
 1. sh ./setup/basic/highlight.sh
 1. sh ./setup/basic/gh.sh
-1. sh ./setup/basic/gtypist.sh
 
 ### UI
 
