@@ -44,3 +44,6 @@ source ~/.dotfiles/zsh/sync.sh
 source ~/.dotfiles/zsh/new.sh
 
 alias shrug="echo '¯\_(ツ)_/¯' | pbcopy"
+
+# Docker
+source ~/.dotfiles/zsh/docker.sh

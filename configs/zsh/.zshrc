@@ -9,8 +9,15 @@ plugins=(
     zsh-autosuggestions
     npx
     brew
+    yarn
+    web-search
     docker
     docker-compose
+    z
+    chucknorris
+    thefuck
+    vi-mode
+    zsh_reload
 )
 source $ZSH/oh-my-zsh.sh
 export PATH=$PATH:$HOME/.composer/vendor/bin
