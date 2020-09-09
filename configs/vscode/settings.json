@@ -84,13 +84,16 @@
     "kosmos",
     "middlewares",
     "openapi",
+    "phpmyadmin",
     "socketio",
     "startscreen",
     "tagesschau",
     "upsert",
     "upvote",
     "wordpress",
-    "wordpress db host"
+    "wordpress db host",
+    "wp",
+    "wpdb"
   ],
   "editor.lineHeight": 0,
   "editor.fontSize": 12,
@@ -104,5 +107,6 @@
   "python.pythonPath": "/usr/local/bin/python3",
   "python.dataScience.variableQueries": [],
   "workbench.sideBar.location": "right",
-  "workbench.panel.defaultLocation": "bottom"
+  "workbench.panel.defaultLocation": "bottom",
+  "python.showStartPage": false
 }

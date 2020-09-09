@@ -16,6 +16,8 @@ gitall() {
     git commit -m update
   fi
   git push
+  echo
+  ctags -R --exclude=.git --exclude=node_modules --exclude=test
   c_fortune
 }
 alias g=gitall
@@ -27,6 +29,8 @@ c_git_local_reset() {
   c_fortune
 }
 alias grr=c_git_local_reset
+
+alias wip="git add . && git commit -m 'WIP'"
 
 # Git Remote Repo Reset
 git_remote_repo_reset() {

@@ -20,6 +20,7 @@ foxundermoon.shell-format
 ginfuru.ginfuru-onedark-raincoat-theme
 glitch.glitch
 HookyQR.beautify
+jaydenlin.ctags-support
 JCsoftIA.jcsoftia
 johnpapa.vscode-cloak
 mikestead.dotenv

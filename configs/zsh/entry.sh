@@ -42,3 +42,5 @@ source ~/.dotfiles/zsh/sync.sh
 
 # New
 source ~/.dotfiles/zsh/new.sh
+
+alias shrug="echo '¯\_(ツ)_/¯' | pbcopy"

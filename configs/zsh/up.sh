@@ -3,7 +3,7 @@ up() {
   echo 'Homebrew Update'
   brew update
   brew upgrade
-  brew cask upgrade
+  brew upgrade --cask
   brew cleanup
   brew doctor
   omz update
