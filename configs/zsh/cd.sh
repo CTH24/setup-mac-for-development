@@ -11,7 +11,6 @@ c_cd() {
 
   if [ -d .git ]; then
     gh issue list
-    echo
   fi
 
 }
@@ -24,7 +23,6 @@ c_s() {
   ll
   if [ -d .git ]; then
     gh issue list
-    echo
   fi
 }
 alias s=c_s

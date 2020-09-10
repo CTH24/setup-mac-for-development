@@ -1,7 +1,10 @@
 ZSH_DISABLE_COMPFIX=true
 export ZSH="/Users/daniel/.oh-my-zsh"
 export XDEBUG_CONFIG="idekey=VSCODE"
-ZSH_THEME="norm"
+ZSH_THEME="powerlevel9k/powerlevel9k"
+POWERLEVEL9K_PROMPT_ON_NEWLINE=true
+POWERLEVEL9K_PROMPT_ADD_NEWLINE=true
+POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(dir vcs)
 plugins=(
     git
     osx
@@ -28,3 +31,5 @@ export PATH="/Users/daniel/.npm_global/bin/:$PATH"
 
 # Read Dotfiles
 source ~/.dotfiles/zsh/entry.sh
+
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh

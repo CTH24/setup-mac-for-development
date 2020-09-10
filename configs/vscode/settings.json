@@ -9,7 +9,7 @@
   "workbench.iconTheme": "vscode-icons",
   "editor.fontLigatures": true,
   "files.autoSave": "onFocusChange",
-  "editor.fontFamily": "'Anonymous Pro', 'Fira Coda', Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontFamily": "'JetBrains Mono', 'Anonymous Pro', 'Fira Coda', Menlo, Monaco, 'Courier New', monospace",
   "markdown.preview.fontSize": 36,
   "editor.tabSize": 2,
   "editor.detectIndentation": true,
@@ -90,8 +90,10 @@
     "socketio",
     "startscreen",
     "tagesschau",
+    "tldr",
     "upsert",
     "upvote",
+    "vimrc",
     "wordpress",
     "wordpress db host",
     "wp",
@@ -100,7 +102,7 @@
   "editor.lineHeight": 0,
   "editor.fontSize": 12,
   "editor.formatOnSave": true,
-  "terminal.integrated.fontFamily": "'Hack Nerd Font', monospace",
+  "terminal.integrated.fontFamily": "'JetBrains Mono', monospace",
   "terminal.integrated.fontSize": 10,
   "terminal.integrated.lineHeight": 1.1,
   "workbench.activityBar.visible": false,
@@ -110,5 +112,6 @@
   "python.dataScience.variableQueries": [],
   "workbench.sideBar.location": "right",
   "workbench.panel.defaultLocation": "bottom",
-  "python.showStartPage": false
+  "python.showStartPage": false,
+  "terminal.integrated.shell.linux": ""
 }
